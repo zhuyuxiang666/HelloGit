@@ -14,5 +14,6 @@ public class HelloGIt {
         System.out.println("hello 更新3");
         System.out.println("hello 添加分支！");
         System.out.println("hello 主干go go go！");
+        System.out.println("hello 分支go go go！");
     }
 }
