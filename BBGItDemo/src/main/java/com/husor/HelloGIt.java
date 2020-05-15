@@ -10,5 +10,6 @@ public class HelloGIt {
 
         System.out.println("hello git!");
         System.out.println("hello 更新1");
+        System.out.println("hello 更新2");
     }
 }
