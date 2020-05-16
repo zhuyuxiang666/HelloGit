@@ -16,5 +16,6 @@ public class HelloGIt {
         System.out.println("hello 主干go go go！");
         System.out.println("hello 分支go go go！");
         System.out.println("hello 开始走你Hadoop！");
+        System.out.println("====================");
     }
 }
